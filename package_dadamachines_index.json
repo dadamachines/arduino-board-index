@@ -5,10 +5,12 @@
     "websiteURL": "https://dadamachines.com",
     "email": "hi@dadamachines.com",
     "help": {
-      "online": "https://github.com/dadamachines/arduino-board-index"
+      "online": "https://github.com/dadamachines/automat"
     },
-    "platforms": [{
-          "name": "Doppler SAMD51+FPGA (32-bits ARM Cortex-M4) Boards",
+    "platforms": [
+
+      {
+          "name": "dadamachines hardware (dependency: Arduino SAMD Boards 1.6.9)",
           "architecture": "samd",
           "version": "1.2.9",
           "category": "Contributed",
@@ -19,7 +21,51 @@
             "archiveFileName": "dadamachines-samd-1.2.9.tar.bz2",
             "size": "6207403",
             "boards": [{
-            "name": "doppler M4 (SAMD51)",
+            "name": "doppler",
+            "toolsDependencies": [
+              {
+                "name": "arm-none-eabi-gcc",
+                "packager": "arduino",
+                "version": "4.8.3-2014q1"
+              },
+              {
+                "name": "bossac",
+                "packager": "arduino",
+                "version": "1.8.0-48-gb176eee"
+              },
+              {
+                "name": "openocd",
+                "packager": "arduino",
+                "version": "0.9.0-arduino"
+              },
+              {
+                "name": "CMSIS",
+                "packager": "arduino",
+                "version": "4.5.0"
+              },
+              {
+                "name": "CMSIS-Atmel",
+                "packager": "arduino",
+                "version": "1.2.0"
+
+              }
+            ]
+          }]
+        },
+
+        {
+          "name": "dadamachines hardware (dependency: Arduino SAMD Boards 1.6.9)",
+          "architecture": "samd",
+          "version": "1.3.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://dadamachines.github.io/arduino-board-index/"
+          },
+            "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-samd-1.3.0.zip",
+            "archiveFileName": "dadamachines-samd-1.3.0.zip",
+            "size": "6207403",
+            "boards": [{
+            "name": "doppler",
             "toolsDependencies": [
               {
                 "name": "arm-none-eabi-gcc",
