@@ -10,7 +10,7 @@
     "platforms": [
 
       {
-          "name": "dadamachines - doppler (dependency: Adafruit SAMD Boards 1.2.9)",
+          "name": "dadamachines - M4 Boards (dependency: Adafruit SAMD Boards 1.2.9)",
           "architecture": "samd",
           "version": "1.2.9",
           "category": "Contributed",
@@ -54,7 +54,7 @@
         },
 
         {
-          "name": "dadamachines - doppler (dependency: Adafruit SAMD Boards 1.3.0)",
+          "name": "dadamachines - M4 Boards (dependency: Adafruit SAMD Boards 1.3.0)",
           "architecture": "samd",
           "version": "1.3.0",
           "category": "Contributed",
