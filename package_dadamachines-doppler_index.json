@@ -17,11 +17,11 @@
           "help": {
             "online": "https://dadamachines.github.io/arduino-board-index/"
           },
-            "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.2.9.tar.bz2",
-            "archiveFileName": "dadamachines-doppler-1.2.9.tar.bz2",
+            "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.2.9.zip",
+            "archiveFileName": "dadamachines-doppler-1.2.9.zip",
             "size": "6207403",
             "boards": [{
-            "name": "doppler",
+            "name": "dadamachines doppler",
             "toolsDependencies": [
               {
                 "name": "arm-none-eabi-gcc",
@@ -65,7 +65,7 @@
             "archiveFileName": "dadamachines-doppler-1.3.0.zip",
             "size": "6207403",
             "boards": [{
-            "name": "doppler",
+            "name": "dadamachines doppler",
             "toolsDependencies": [
               {
                 "name": "arm-none-eabi-gcc",

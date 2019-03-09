@@ -12,13 +12,13 @@
       {
         "name": "dadamachines - automat (dependency: Arduino SAMD Boards 1.6.9)",
         "architecture": "samd",
-        "version": "1.0.6",
+        "version": "1.0.7",
         "category": "Contributed",
         "help": {
           "online": "https://github.com/dadamachines/automat"
         },
-        "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-automat-1.0.6.zip",
-        "archiveFileName": "dadamachines-automat-1.0.6.zip",
+        "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-automat-1.0.7.zip",
+        "archiveFileName": "dadamachines-automat-1.0.7.zip",
         "size": "37129",
         "boards": [{
           "name": "dadamachines automat"
