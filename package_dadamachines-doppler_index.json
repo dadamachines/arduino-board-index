@@ -61,8 +61,8 @@
           "help": {
             "online": "https://dadamachines.github.io/arduino-board-index/"
           },
-            "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-samd-1.3.0.zip",
-            "archiveFileName": "dadamachines-samd-1.3.0.zip",
+            "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.3.0.zip",
+            "archiveFileName": "dadamachines-doppler-1.3.0.zip",
             "size": "6207403",
             "boards": [{
             "name": "doppler",
