@@ -17,8 +17,8 @@
         "help": {
           "online": "https://github.com/dadamachines/"
         },
-        "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-automat-1.0.7.zip",
-        "archiveFileName": "dadamachines-automat-1.0.7.zip",
+        "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-m0-1.0.7.zip",
+        "archiveFileName": "dadamachines-m0-1.0.7.zip",
         "size": "37129",
         "boards": [{
           "name": "dadamachines automat"
