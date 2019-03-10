@@ -7,14 +7,14 @@ For the **automat** install the **dadamachines - M0 Boards** Package:
 ```
 https://dadamachines.github.io/arduino-board-index/package_dadamachines-m0_index.json
 ```
-
+  
 For the **doppler** install the **dadamachines - M4 Boards** Package:
 ```
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json  
 https://dadamachines.github.io/arduino-board-index/package_dadamachines-m4_index.json
 ```
 
 ![dadamachines-add-arduino-board-support-package-url](img/dadamachines-add-arduino-board-support-package-url.jpg)
-
 
 2. Then open the Arduino Boards Manager (**Tools->Boards->Boards Manager**) and install the following packages:
 
