@@ -4,12 +4,12 @@ Board Support Package(s) for Arduino IDE v1.6+.
 ## Installation
 Add the following URL to the Arduino Boards Manager (**File->Preferences**):
 
-1.1 For the **automat** install the **dadamachines - M0 Boards** Package:
+1.1 For the [**automat**](https://github.com/dadamachines/automat) install the **dadamachines - M0 Boards** Package:
 ```
 https://dadamachines.github.io/arduino-board-index/package_dadamachines-m0_index.json
 ```
 
-1.2 For the **doppler** install the **dadamachines - M4 Boards** Package:
+1.2 For the [**doppler**](https://github.com/dadamachines/doppler) install the **dadamachines - M4 Boards** Package:
 ```
 https://adafruit.github.io/arduino-board-index/package_adafruit_index.json  
 https://dadamachines.github.io/arduino-board-index/package_dadamachines-m4_index.json
@@ -19,11 +19,11 @@ https://dadamachines.github.io/arduino-board-index/package_dadamachines-m4_index
 
 2. Then open the Arduino Boards Manager (**Tools->Boards->Boards Manager**) and install the following packages:
 
-2.1 For the **automat**:
+2.1 For the [**automat**](https://github.com/dadamachines/automat):
 - **Arduino SAMD Boards (32-bits ARM Cortex-M0+)** by **Arduino**
 - **dadamachines - M0 Boards** by **dadamachines**
 
-2.2 For the **doppler**:
+2.2 For the [**doppler**](https://github.com/dadamachines/doppler):
 - **Adafruit SAMD Boards** by **Adafruit** 
 - **dadamachines - M4 Boards** by **dadamachines**
 
